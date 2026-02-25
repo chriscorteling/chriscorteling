@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Computer Science Undergraduate • AI & Fullstack Developer • Co-Founder
+  Computer Science Undergraduate • AI/ML & Fullstack Developer • Co-Founder @CrackCode
 </p>
 
 ---
