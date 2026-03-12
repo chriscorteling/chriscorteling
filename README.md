@@ -98,7 +98,7 @@
 ## Contact
 
 GitHub: https://github.com/chriscorteling  
-LinkedIn: https://www.linkedin.com/in/chris-corteling/
+LinkedIn: https://www.linkedin.com/in/chris-corteling/ | 
 Portfolio: https://chirscortelingportfolio.vercel.app
 
 <p align="center">
