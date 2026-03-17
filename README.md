@@ -31,7 +31,7 @@
 
 - 🎓 Computer Science Undergraduate at IIT Sri Lanka (University of Westminster)
 - 🚀 Co-Founder of **CrackCode** — building innovative software solutions
-- 🤖 Interested in **Artificial Intelligence, Robotics, and Backend Systems**
+- 🤖 Interested in **Artificial Intelligence,Machine Learning with Robotics, and Full Stack Development**
 - 🧠 Passionate about solving real-world problems using technology
 - 👥 Leadership experience as IEEE CIS Logistics Lead & Batch Representative
 - 🌱 Continuously learning system design, security, and scalable architectures
