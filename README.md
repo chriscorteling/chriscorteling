@@ -98,8 +98,8 @@
 ## Contact
 
 GitHub: https://github.com/chriscorteling  
-LinkedIn: https://www.linkedin.com/in/chris-corteling/ | 
-Portfolio: https://chirscortelingportfolio.vercel.app
+LinkedIn: https://www.linkedin.com/in/chris-corteling
+Portfolio: https://www.corteling-dev.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" />
